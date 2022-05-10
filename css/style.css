@@ -1,0 +1,38 @@
+body {
+    background-image: url(../img/pattern.webp);
+    background-size: 50%;
+    font-family: 'Montserrat', sans-serif;
+}
+main {
+    width: 60%;
+    margin: 50px auto;
+    text-align: center;
+    background-color: rgb(255,255,255,0.95);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5em;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding-top: 0.5em;
+}
+
+p {
+    font-size: 2rem;
+}
+
+i {
+    color: #ecb76b;
+    font-size: 2rem;
+    padding-right: 1em;
+    padding-left: 0.4em;
+}
+
+.paw i {
+    color: #db8b51;
+}
